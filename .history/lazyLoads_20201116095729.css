@@ -1,0 +1,9 @@
+img {
+  transition: opacity $e1;
+}
+img:not([src]) {
+  opacity: 0;
+}
+img[class^="loaded"] {
+  opacity: 1;
+}
