@@ -6,7 +6,7 @@
 
 ### How to use
 
-in images use `data-src` instead of `src`
+In images use `data-src` instead of `src`
 
 ```html
 <html>
